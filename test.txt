@@ -1,2 +1,3 @@
 burada test yaptýk yeni branch attýp
-yeni ekleme
+
+sonra yeni ekleme yaptýk
